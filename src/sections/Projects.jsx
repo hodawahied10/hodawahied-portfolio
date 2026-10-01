@@ -20,7 +20,7 @@ function Projects() {
             alt: 'Parking App Confirmation',
         },
         {
-            src: '/images/booking.jpg',
+            src: '/images/booking.png',
             alt: 'Parking App Booking',
         },
         {
