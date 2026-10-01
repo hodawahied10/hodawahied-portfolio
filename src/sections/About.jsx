@@ -14,7 +14,7 @@ function About() {
                     </h2>
 
                     <p className="about-description">
-                        I'm Hoda, a Flutter Android Developer passionate about
+                        I'm Hoda, a Flutter passionate about
                         turning ideas into modern, practical mobile applications.
                         I focus on understanding business needs and transforming
                         them into clean and user-friendly digital experiences.
@@ -32,11 +32,10 @@ function About() {
                         H
                     </div>
 
-                    <h3>Flutter Android Developer</h3>
+                    <h3>Flutter Developer</h3>
 
                     <p>
-                        Focused on building reliable and modern Android
-                        applications.
+                        Focused on building reliable and modern mobile applications.
                     </p>
                 </div>
 
