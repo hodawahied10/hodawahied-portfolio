@@ -6,12 +6,12 @@ function Hero() {
                 <p className="hero-greeting">Hello, I'm Hoda ✨</p>
 
                 <h1>
-                    Flutter Android
+                    Flutter
                     <span>Developer</span>
                 </h1>
 
                 <p className="hero-description">
-                    I build modern Android applications that turn business ideas
+                    I build modern applications that turn business ideas
                     into practical digital experiences.
                 </p>
 
